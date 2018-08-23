@@ -1,0 +1,4 @@
+#Tue Aug 21 17:54:35 PDT 2018
+base.0=C\:\\Users\\Mind\\Desktop\\wt_testing\\Houndify_testing\\HoundifyLibraryTest\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
