@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">HoundifyLibraryTest</string>
+    <!-- Barbas -->
+    <string name="houndify_cliente_id_0">_-J90GYyvMo67EmDZtTdwA==</string>
+    <string name="houndify_cliente_key_0">8wg8ubcuB7LsVkQhOoDkjW-pVfXUELgZPHnrkZwg_AclvXUP-ukkz5pRCGYJYMVonQQgz0jSRGes1-2Ese3HMw==</string>
+    <!-- Ricardo - Client Default -->
+    <string name="houndify_cliente_id_1">z9wmN0VXABh4WAtd9e3Gxg==</string>
+    <string name="houndify_cliente_key_1">mB4LtxNfdlVxCy0XM10WoDOUG6SNPnmerTZ3CuniEWPThP-S2nM3LXkFHJJnbIxuey3UpHfo0R7y91UohmHKtA==</string>
+    <!-- Ricardo - RosyAudio -->
+    <string name="houndify_cliente_id_11">_qeV4IIBweABKLJ1NLY58A==</string>
+    <string name="houndify_cliente_key_11">XPZ0jRHXo7oBLC6PGsPVzlQIGtBXd_XOZTa1oFiDUzYtJbNXHwaZNMvLPpjbJJgH7Q-rom6_v6FdRntxmQOI3A==</string>
+    <!-- Ricardo - TestRosy -->
+    <string name="houndify_cliente_id_12">KF7E8UyC-2jj2kiaXRZ32Q==</string>
+    <string name="houndify_cliente_key_12">og_H6GNtcUOEnAJm49DGqe250Z1HPQ4vZ2I5GHGUZjxc6o2iJI2DW19F1JW8OdETsdfu6h_SCtvvDVyCGyKe4Q==</string>
 </resources>

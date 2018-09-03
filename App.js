@@ -3,7 +3,6 @@ import ReactNative, { StyleSheet, Text, View, Button, DeviceEventEmitter } from 
 import Voice from 'react-native-voice';
 
 let ReactHoundifyTest = ReactNative.NativeModules.ReactHoundifyTest;
-
 export default class App extends React.Component {
   constructor(props) {
     super(props);
@@ -11,7 +10,8 @@ export default class App extends React.Component {
 
     this.state = {
       result: 'No result recovered',
-      status: 'Not recording'
+      status: 'Not recording',
+      bodyText: ""
     };
 
     DeviceEventEmitter.addListener('onHoundifyResponse', this.onHoundifyResponse);
@@ -51,10 +51,20 @@ export default class App extends React.Component {
 
   onStopRecording = (response) => {
     this.setState({
-      status: 'Not recording'
+      status: 'Not recording',
+      result: ""
     });
   };
 
+  onHoundifyTextResponse = (response) => {
+    let writtenResponse = JSON.parse(response).AllResults[0].WrittenResponse;
+    console.log(`onHoundifyTextResponse/////////////////////////////${writtenResponse}`);
+
+    this.setState({
+      result: writtenResponse,
+      bodyText: writtenResponse
+    });
+  }
 
   /*************************************************************************************************
   *                                     react-native-voice
@@ -81,26 +91,19 @@ export default class App extends React.Component {
   }
 
   onVoiceToTextResult(event) {
-    if(!event || !event.value || event.value.length === 0) {
+    if (!event || !event.value || event.value.length === 0) {
       return;
     }
-
     this.setState({
-      result: event.value[0]
+      result: event.value[0],
+      bodyText: event.value[0]
     });
 
     console.log(`/****************${event.value[0]}`);
-    ReactHoundifyTest.SearchText(event.value[0]);
+    //ReactHoundifyTest.SearchText(event.value[0]);
   }
 
-  onHoundifyTextResponse = (response) => {
-    let writtenResponse = JSON.parse(response).AllResults[0].WrittenResponse;
-    console.log(`/////////////////////////////${writtenResponse}`);
 
-    this.setState({
-      result: writtenResponse
-    });
-  }
 
   /*************************************************************************************************
   *                                            render
@@ -116,18 +119,18 @@ export default class App extends React.Component {
         <View style={styles.row}>
           <Button
             onPress={this._onStartRecording}
-            title='Start direct houndify voice'
+            title='Start houndify'
             color='#841584'
           />
 
           <Button
             onPress={this._onStopRecording}
-            title='Stop direct houndify recording'
-            color='#841584'
+            title='Stop houndify'
+            color='#791edb'
           />
         </View>
 
-        <View style={styles.row}>
+        {/* <View style={styles.row}>
           <Button
             onPress={this._voiceToTextStart}
             title='Start voice to text'
@@ -138,6 +141,11 @@ export default class App extends React.Component {
             title='Stop voice to text'
             color='#791edb'
           />
+        </View> */}
+        <View style={styles.row1}>
+          <Text numberOfLines={11}>
+          Response: {this.state.bodyText}
+          </Text>
         </View>
       </View>
     );
@@ -146,15 +154,22 @@ export default class App extends React.Component {
 
 const styles = StyleSheet.create({
   container: {
-    flex: 1,
+    flex: 100,
     backgroundColor: '#fff',
     alignItems: 'center',
     justifyContent: 'center',
+    flexDirection: 'column'
   },
   row: {
     flex: 1,
     flexDirection: 'row',
     backgroundColor: '#fff',
+    justifyContent: 'center',
+  },
+  row1: {
+    flex: 1,
+    flexDirection: 'row',
+    backgroundColor: '#EF6C4E',
     justifyContent: 'center',
   },
 });
