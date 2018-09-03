@@ -1,15 +1,15 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\android\app\src\main\AndroidManifest.xml:1:1-35:12
-INJECTED from C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\android\app\src\main\AndroidManifest.xml:1:1-35:12
-INJECTED from C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\android\app\src\main\AndroidManifest.xml:1:1-35:12
-INJECTED from C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\android\app\src\main\AndroidManifest.xml:1:1-35:12
-MERGED from [:react-native-voice] C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\node_modules\react-native-voice\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-16:12
-MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\Mind\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\18636e89cdc6019c79e6834105b0e761\AndroidManifest.xml:2:1-15:12
-MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Mind\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.1.1.aar\4f916365fd733081c704efab0428138f\AndroidManifest.xml:17:1-24:12
+ADDED from C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\android\app\src\main\AndroidManifest.xml:1:1-35:12
+INJECTED from C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\android\app\src\main\AndroidManifest.xml:1:1-35:12
+INJECTED from C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\android\app\src\main\AndroidManifest.xml:1:1-35:12
+INJECTED from C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\android\app\src\main\AndroidManifest.xml:1:1-35:12
+MERGED from [:react-native-voice] C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\node_modules\react-native-voice\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-16:12
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\Mind\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\cbcfba70f0292bbba9cdcc3798a6c75e\AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\Mind\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.1.aar\57842d10ab0018c15eb11fbc10a9e5db\AndroidManifest.xml:17:1-24:12
 MERGED from [hound.android:hound-sdk:1.4.0] C:\Users\Mind\.gradle\caches\transforms-1\files-1.1\hound-sdk-1.4.0.aar\39fc561b7cb2c8269b0e472b9ef52638\AndroidManifest.xml:2:1-20:12
 MERGED from [hound.android:phrasespotter:1.8.0] C:\Users\Mind\.gradle\caches\transforms-1\files-1.1\phrasespotter-1.8.0.aar\63c3e98b0d113573684bd100c667e6f6\AndroidManifest.xml:2:1-13:12
-MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Mind\.gradle\caches\transforms-1\files-1.1\support-v4-23.1.1.aar\611179d198cadc09fbca9a66235eb116\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\Mind\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.1.aar\98d05e824d450fd358ac6a977146f048\AndroidManifest.xml:17:1-24:12
 MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\Mind\.gradle\caches\transforms-1\files-1.1\textlayoutbuilder-1.0.0.aar\4b78adf161a9880a8df0d8f771e71175\AndroidManifest.xml:10:1-18:12
 MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\Mind\.gradle\caches\transforms-1\files-1.1\fresco-1.3.0.aar\088dc8f892b8b06f0de3662406ab2133\AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] C:\Users\Mind\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.3.0.aar\c809a5fbd5c77cbd21391256413e7c92\AndroidManifest.xml:2:1-9:12
@@ -21,85 +21,85 @@ MERGED from [com.facebook.fresco:drawee:1.3.0] C:\Users\Mind\.gradle\caches\tran
 MERGED from [com.facebook.fresco:imagepipeline:1.3.0] C:\Users\Mind\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.3.0.aar\4ec548932aba56f8818c5b46f2a32d34\AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\Mind\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.3.0.aar\d4aa4a0dd4e4a7ab92e5f8a5b5f5bc87\AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\Mind\.gradle\caches\transforms-1\files-1.1\fbcore-1.3.0.aar\06323b2859b31fb591ae5d5d732ec63b\AndroidManifest.xml:2:1-9:12
-INJECTED from C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\android\app\src\main\AndroidManifest.xml:1:1-35:12
-INJECTED from C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\android\app\src\main\AndroidManifest.xml:1:1-35:12
-INJECTED from C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\android\app\src\main\AndroidManifest.xml:1:1-35:12
+INJECTED from C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\android\app\src\main\AndroidManifest.xml:1:1-35:12
+INJECTED from C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\android\app\src\main\AndroidManifest.xml:1:1-35:12
+INJECTED from C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\android\app\src\main\AndroidManifest.xml:1:1-35:12
 	package
-		ADDED from C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\android\app\src\main\AndroidManifest.xml:2:5-38
-		INJECTED from C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\android\app\src\main\AndroidManifest.xml:2:5-38
+		INJECTED from C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\android\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\android\app\src\main\AndroidManifest.xml:1:1-35:12
-		INJECTED from C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\android\app\src\main\AndroidManifest.xml:1:1-35:12
+		INJECTED from C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\android\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\android\app\src\main\AndroidManifest.xml:1:1-35:12
-		INJECTED from C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\android\app\src\main\AndroidManifest.xml:1:1-35:12
+		INJECTED from C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\android\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\android\app\src\main\AndroidManifest.xml:1:11-69
+		ADDED from C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\android\app\src\main\AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\android\app\src\main\AndroidManifest.xml:4:5-67
-MERGED from [:react-native-voice] C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\node_modules\react-native-voice\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:14:5-67
-MERGED from [:react-native-voice] C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\node_modules\react-native-voice\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:14:5-67
+ADDED from C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\android\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from [:react-native-voice] C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\node_modules\react-native-voice\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:14:5-67
+MERGED from [:react-native-voice] C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\node_modules\react-native-voice\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:14:5-67
 MERGED from [hound.android:hound-sdk:1.4.0] C:\Users\Mind\.gradle\caches\transforms-1\files-1.1\hound-sdk-1.4.0.aar\39fc561b7cb2c8269b0e472b9ef52638\AndroidManifest.xml:11:5-67
 MERGED from [hound.android:hound-sdk:1.4.0] C:\Users\Mind\.gradle\caches\transforms-1\files-1.1\hound-sdk-1.4.0.aar\39fc561b7cb2c8269b0e472b9ef52638\AndroidManifest.xml:11:5-67
 	android:name
-		ADDED from C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\android\app\src\main\AndroidManifest.xml:4:22-64
+		ADDED from C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\android\app\src\main\AndroidManifest.xml:4:22-64
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
-ADDED from C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\android\app\src\main\AndroidManifest.xml:5:5-77
-MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\Mind\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\18636e89cdc6019c79e6834105b0e761\AndroidManifest.xml:11:5-78
-MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\Mind\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\18636e89cdc6019c79e6834105b0e761\AndroidManifest.xml:11:5-78
+ADDED from C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\android\app\src\main\AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\Mind\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\cbcfba70f0292bbba9cdcc3798a6c75e\AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\Mind\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\cbcfba70f0292bbba9cdcc3798a6c75e\AndroidManifest.xml:11:5-78
 	android:name
-		ADDED from C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\android\app\src\main\AndroidManifest.xml:5:22-75
+		ADDED from C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\android\app\src\main\AndroidManifest.xml:5:22-75
 uses-permission#android.permission.RECORD_AUDIO
-ADDED from C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\android\app\src\main\AndroidManifest.xml:6:5-71
-MERGED from [:react-native-voice] C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\node_modules\react-native-voice\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:13:5-71
-MERGED from [:react-native-voice] C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\node_modules\react-native-voice\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:13:5-71
+ADDED from C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\android\app\src\main\AndroidManifest.xml:6:5-71
+MERGED from [:react-native-voice] C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\node_modules\react-native-voice\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:13:5-71
+MERGED from [:react-native-voice] C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\node_modules\react-native-voice\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:13:5-71
 	android:name
-		ADDED from C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\android\app\src\main\AndroidManifest.xml:6:22-68
+		ADDED from C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\android\app\src\main\AndroidManifest.xml:6:22-68
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\android\app\src\main\AndroidManifest.xml:7:5-76
+ADDED from C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\android\app\src\main\AndroidManifest.xml:7:5-76
 MERGED from [hound.android:hound-sdk:1.4.0] C:\Users\Mind\.gradle\caches\transforms-1\files-1.1\hound-sdk-1.4.0.aar\39fc561b7cb2c8269b0e472b9ef52638\AndroidManifest.xml:12:5-76
 MERGED from [hound.android:hound-sdk:1.4.0] C:\Users\Mind\.gradle\caches\transforms-1\files-1.1\hound-sdk-1.4.0.aar\39fc561b7cb2c8269b0e472b9ef52638\AndroidManifest.xml:12:5-76
 	android:name
-		ADDED from C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\android\app\src\main\AndroidManifest.xml:7:22-73
+		ADDED from C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\android\app\src\main\AndroidManifest.xml:7:22-73
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\android\app\src\main\AndroidManifest.xml:8:5-81
+ADDED from C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\android\app\src\main\AndroidManifest.xml:8:5-81
 	android:name
-		ADDED from C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\android\app\src\main\AndroidManifest.xml:8:22-78
+		ADDED from C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\android\app\src\main\AndroidManifest.xml:8:22-78
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\android\app\src\main\AndroidManifest.xml:9:5-79
+ADDED from C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\android\app\src\main\AndroidManifest.xml:9:5-79
 	android:name
-		ADDED from C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\android\app\src\main\AndroidManifest.xml:9:22-76
+		ADDED from C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\android\app\src\main\AndroidManifest.xml:9:22-76
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\android\app\src\main\AndroidManifest.xml:10:5-81
+ADDED from C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\android\app\src\main\AndroidManifest.xml:10:5-81
 	android:name
-		ADDED from C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\android\app\src\main\AndroidManifest.xml:10:22-78
+		ADDED from C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\android\app\src\main\AndroidManifest.xml:10:22-78
 uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
-ADDED from C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\android\app\src\main\AndroidManifest.xml:12:5-80
+ADDED from C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\android\app\src\main\AndroidManifest.xml:12:5-80
 	android:name
-		ADDED from C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\android\app\src\main\AndroidManifest.xml:12:22-77
+		ADDED from C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\android\app\src\main\AndroidManifest.xml:12:22-77
 uses-permission#android.permission.BROADCAST_STICKY
-ADDED from C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\android\app\src\main\AndroidManifest.xml:13:5-75
+ADDED from C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\android\app\src\main\AndroidManifest.xml:13:5-75
 	android:name
-		ADDED from C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\android\app\src\main\AndroidManifest.xml:13:22-72
+		ADDED from C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\android\app\src\main\AndroidManifest.xml:13:22-72
 uses-permission#android.permission.BLUETOOTH
-ADDED from C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\android\app\src\main\AndroidManifest.xml:14:5-68
+ADDED from C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\android\app\src\main\AndroidManifest.xml:14:5-68
 	android:name
-		ADDED from C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\android\app\src\main\AndroidManifest.xml:14:22-65
+		ADDED from C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\android\app\src\main\AndroidManifest.xml:14:22-65
 application
-ADDED from C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\android\app\src\main\AndroidManifest.xml:16:5-33:19
-MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\Mind\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\18636e89cdc6019c79e6834105b0e761\AndroidManifest.xml:13:5-20
-MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\Mind\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\18636e89cdc6019c79e6834105b0e761\AndroidManifest.xml:13:5-20
-MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Mind\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.1.1.aar\4f916365fd733081c704efab0428138f\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Mind\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.1.1.aar\4f916365fd733081c704efab0428138f\AndroidManifest.xml:22:5-20
+ADDED from C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\android\app\src\main\AndroidManifest.xml:16:5-33:19
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\Mind\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\cbcfba70f0292bbba9cdcc3798a6c75e\AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\Mind\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\cbcfba70f0292bbba9cdcc3798a6c75e\AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\Mind\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.1.aar\57842d10ab0018c15eb11fbc10a9e5db\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\Mind\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.1.aar\57842d10ab0018c15eb11fbc10a9e5db\AndroidManifest.xml:22:5-20
 MERGED from [hound.android:hound-sdk:1.4.0] C:\Users\Mind\.gradle\caches\transforms-1\files-1.1\hound-sdk-1.4.0.aar\39fc561b7cb2c8269b0e472b9ef52638\AndroidManifest.xml:14:5-18:19
 MERGED from [hound.android:hound-sdk:1.4.0] C:\Users\Mind\.gradle\caches\transforms-1\files-1.1\hound-sdk-1.4.0.aar\39fc561b7cb2c8269b0e472b9ef52638\AndroidManifest.xml:14:5-18:19
 MERGED from [hound.android:phrasespotter:1.8.0] C:\Users\Mind\.gradle\caches\transforms-1\files-1.1\phrasespotter-1.8.0.aar\63c3e98b0d113573684bd100c667e6f6\AndroidManifest.xml:11:5-20
 MERGED from [hound.android:phrasespotter:1.8.0] C:\Users\Mind\.gradle\caches\transforms-1\files-1.1\phrasespotter-1.8.0.aar\63c3e98b0d113573684bd100c667e6f6\AndroidManifest.xml:11:5-20
-MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Mind\.gradle\caches\transforms-1\files-1.1\support-v4-23.1.1.aar\611179d198cadc09fbca9a66235eb116\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Mind\.gradle\caches\transforms-1\files-1.1\support-v4-23.1.1.aar\611179d198cadc09fbca9a66235eb116\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\Mind\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.1.aar\98d05e824d450fd358ac6a977146f048\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\Mind\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.1.aar\98d05e824d450fd358ac6a977146f048\AndroidManifest.xml:22:5-20
 MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Mind\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\477a8b62f3aeae4f8c30c854f8337bb1\AndroidManifest.xml:3:3-17
 MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Mind\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\477a8b62f3aeae4f8c30c854f8337bb1\AndroidManifest.xml:3:3-17
 MERGED from [org.webkit:android-jsc:r174650] C:\Users\Mind\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\12ff5e390f44c4b1d219e90142a9e4d1\AndroidManifest.xml:2:3-17
@@ -109,55 +109,55 @@ MERGED from [soundhound.android:speex:1.3.0] C:\Users\Mind\.gradle\caches\transf
 MERGED from [soundhound.android:vad:1.2.0] C:\Users\Mind\.gradle\caches\transforms-1\files-1.1\vad-1.2.0.aar\bb8d4ac23aee34d570d1542986b0ed15\AndroidManifest.xml:11:5-20
 MERGED from [soundhound.android:vad:1.2.0] C:\Users\Mind\.gradle\caches\transforms-1\files-1.1\vad-1.2.0.aar\bb8d4ac23aee34d570d1542986b0ed15\AndroidManifest.xml:11:5-20
 	android:label
-		ADDED from C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\android\app\src\main\AndroidManifest.xml:18:7-39
+		ADDED from C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\android\app\src\main\AndroidManifest.xml:18:7-39
 	android:icon
-		ADDED from C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\android\app\src\main\AndroidManifest.xml:19:7-41
+		ADDED from C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\android\app\src\main\AndroidManifest.xml:19:7-41
 	android:allowBackup
-		ADDED from C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\android\app\src\main\AndroidManifest.xml:20:7-34
+		ADDED from C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\android\app\src\main\AndroidManifest.xml:20:7-34
 	android:theme
-		ADDED from C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\android\app\src\main\AndroidManifest.xml:21:7-38
+		ADDED from C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\android\app\src\main\AndroidManifest.xml:21:7-38
 	android:name
-		ADDED from C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\android\app\src\main\AndroidManifest.xml:17:7-38
+		ADDED from C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\android\app\src\main\AndroidManifest.xml:17:7-38
 activity#com.houndifylibrarytest.MainActivity
-ADDED from C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\android\app\src\main\AndroidManifest.xml:22:7-31:18
+ADDED from C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\android\app\src\main\AndroidManifest.xml:22:7-31:18
 	android:label
-		ADDED from C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\android\app\src\main\AndroidManifest.xml:24:9-41
+		ADDED from C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\android\app\src\main\AndroidManifest.xml:24:9-41
 	android:windowSoftInputMode
-		ADDED from C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\android\app\src\main\AndroidManifest.xml:26:9-51
+		ADDED from C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\android\app\src\main\AndroidManifest.xml:26:9-51
 	android:configChanges
-		ADDED from C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\android\app\src\main\AndroidManifest.xml:25:9-79
+		ADDED from C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\android\app\src\main\AndroidManifest.xml:25:9-79
 	android:name
-		ADDED from C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\android\app\src\main\AndroidManifest.xml:23:9-37
+		ADDED from C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\android\app\src\main\AndroidManifest.xml:23:9-37
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\android\app\src\main\AndroidManifest.xml:27:9-30:25
+ADDED from C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\android\app\src\main\AndroidManifest.xml:27:9-30:25
 action#android.intent.action.MAIN
-ADDED from C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\android\app\src\main\AndroidManifest.xml:28:13-65
+ADDED from C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\android\app\src\main\AndroidManifest.xml:28:13-65
 	android:name
-		ADDED from C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\android\app\src\main\AndroidManifest.xml:28:21-62
+		ADDED from C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\android\app\src\main\AndroidManifest.xml:28:21-62
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\android\app\src\main\AndroidManifest.xml:29:13-73
+ADDED from C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\android\app\src\main\AndroidManifest.xml:29:13-73
 	android:name
-		ADDED from C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\android\app\src\main\AndroidManifest.xml:29:23-70
+		ADDED from C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\android\app\src\main\AndroidManifest.xml:29:23-70
 activity#com.facebook.react.devsupport.DevSettingsActivity
-ADDED from C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\android\app\src\main\AndroidManifest.xml:32:7-84
+ADDED from C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\android\app\src\main\AndroidManifest.xml:32:7-84
 	android:name
-		ADDED from C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\android\app\src\main\AndroidManifest.xml:32:17-81
+		ADDED from C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\android\app\src\main\AndroidManifest.xml:32:17-81
 uses-sdk
-INJECTED from C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\android\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\android\app\src\main\AndroidManifest.xml
-MERGED from [:react-native-voice] C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\node_modules\react-native-voice\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:8:5-11:54
-MERGED from [:react-native-voice] C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\node_modules\react-native-voice\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:8:5-11:54
-MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\Mind\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\18636e89cdc6019c79e6834105b0e761\AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\Mind\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\18636e89cdc6019c79e6834105b0e761\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Mind\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.1.1.aar\4f916365fd733081c704efab0428138f\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Mind\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.1.1.aar\4f916365fd733081c704efab0428138f\AndroidManifest.xml:20:5-43
+INJECTED from C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-voice] C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\node_modules\react-native-voice\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:8:5-11:54
+MERGED from [:react-native-voice] C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\node_modules\react-native-voice\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:8:5-11:54
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\Mind\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\cbcfba70f0292bbba9cdcc3798a6c75e\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\Mind\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\cbcfba70f0292bbba9cdcc3798a6c75e\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\Mind\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.1.aar\57842d10ab0018c15eb11fbc10a9e5db\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\Mind\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.1.aar\57842d10ab0018c15eb11fbc10a9e5db\AndroidManifest.xml:20:5-43
 MERGED from [hound.android:hound-sdk:1.4.0] C:\Users\Mind\.gradle\caches\transforms-1\files-1.1\hound-sdk-1.4.0.aar\39fc561b7cb2c8269b0e472b9ef52638\AndroidManifest.xml:7:5-9:41
 MERGED from [hound.android:hound-sdk:1.4.0] C:\Users\Mind\.gradle\caches\transforms-1\files-1.1\hound-sdk-1.4.0.aar\39fc561b7cb2c8269b0e472b9ef52638\AndroidManifest.xml:7:5-9:41
 MERGED from [hound.android:phrasespotter:1.8.0] C:\Users\Mind\.gradle\caches\transforms-1\files-1.1\phrasespotter-1.8.0.aar\63c3e98b0d113573684bd100c667e6f6\AndroidManifest.xml:7:5-9:41
 MERGED from [hound.android:phrasespotter:1.8.0] C:\Users\Mind\.gradle\caches\transforms-1\files-1.1\phrasespotter-1.8.0.aar\63c3e98b0d113573684bd100c667e6f6\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Mind\.gradle\caches\transforms-1\files-1.1\support-v4-23.1.1.aar\611179d198cadc09fbca9a66235eb116\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Mind\.gradle\caches\transforms-1\files-1.1\support-v4-23.1.1.aar\611179d198cadc09fbca9a66235eb116\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\Mind\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.1.aar\98d05e824d450fd358ac6a977146f048\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\Mind\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.1.aar\98d05e824d450fd358ac6a977146f048\AndroidManifest.xml:20:5-43
 MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\Mind\.gradle\caches\transforms-1\files-1.1\textlayoutbuilder-1.0.0.aar\4b78adf161a9880a8df0d8f771e71175\AndroidManifest.xml:14:5-16:41
 MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\Mind\.gradle\caches\transforms-1\files-1.1\textlayoutbuilder-1.0.0.aar\4b78adf161a9880a8df0d8f771e71175\AndroidManifest.xml:14:5-16:41
 MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\Mind\.gradle\caches\transforms-1\files-1.1\fresco-1.3.0.aar\088dc8f892b8b06f0de3662406ab2133\AndroidManifest.xml:5:5-7:41
@@ -178,18 +178,18 @@ MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\Mind\.gradle
 MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\Mind\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.3.0.aar\d4aa4a0dd4e4a7ab92e5f8a5b5f5bc87\AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\Mind\.gradle\caches\transforms-1\files-1.1\fbcore-1.3.0.aar\06323b2859b31fb591ae5d5d732ec63b\AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\Mind\.gradle\caches\transforms-1\files-1.1\fbcore-1.3.0.aar\06323b2859b31fb591ae5d5d732ec63b\AndroidManifest.xml:5:5-7:41
-INJECTED from C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\android\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\android\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [:react-native-voice] C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\node_modules\react-native-voice\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:9-51
+		ADDED from [:react-native-voice] C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\node_modules\react-native-voice\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:9-51
 	android:targetSdkVersion
-		INJECTED from C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\android\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\android\app\src\main\AndroidManifest.xml
 activity#com.hound.android.fd.HoundifyVoiceSearchActivity
 ADDED from [hound.android:hound-sdk:1.4.0] C:\Users\Mind\.gradle\caches\transforms-1\files-1.1\hound-sdk-1.4.0.aar\39fc561b7cb2c8269b0e472b9ef52638\AndroidManifest.xml:15:9-17:56
 	android:theme
@@ -197,6 +197,6 @@ ADDED from [hound.android:hound-sdk:1.4.0] C:\Users\Mind\.gradle\caches\transfor
 	android:name
 		ADDED from [hound.android:hound-sdk:1.4.0] C:\Users\Mind\.gradle\caches\transforms-1\files-1.1\hound-sdk-1.4.0.aar\39fc561b7cb2c8269b0e472b9ef52638\AndroidManifest.xml:16:13-76
 uses-permission#android.permission.READ_PHONE_STATE
-IMPLIED from C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\android\app\src\main\AndroidManifest.xml:1:1-35:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+IMPLIED from C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\android\app\src\main\AndroidManifest.xml:1:1-35:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-IMPLIED from C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\android\app\src\main\AndroidManifest.xml:1:1-35:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
+IMPLIED from C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\android\app\src\main\AndroidManifest.xml:1:1-35:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

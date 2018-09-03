@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\android\app\src\main\shaders"/></dataSet><dataSet config="debug"><source path="C:\Users\Mind\Desktop\wt_testing\Houndify_testing\HoundifyLibraryTest\android\app\src\debug\shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\android\app\src\main\shaders"/></dataSet><dataSet config="debug"><source path="C:\Users\Mind\Documents\VSCProjects\TestVoiceHoundify\android\app\src\debug\shaders"/></dataSet></merger>

@@ -1,16 +1,16 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Mind\\Desktop\\wt_testing\\Houndify_testing\\HoundifyLibraryTest\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
+            "outputFile": "C:\\Users\\Mind\\Documents\\VSCProjects\\TestVoiceHoundify\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Mind\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.1.aar\\4f916365fd733081c704efab0428138f\\res\\values-port\\values-port.xml",
+                    "source": "C:\\Users\\Mind\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.1.aar\\57842d10ab0018c15eb11fbc10a9e5db\\res\\values-port\\values-port.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "4",
-                        "startOffsets": "229",
+                        "startOffsets": "280",
                         "endColumns": "55",
-                        "endOffsets": "280"
+                        "endOffsets": "331"
                     },
                     "to": {
                         "startLines": "2",

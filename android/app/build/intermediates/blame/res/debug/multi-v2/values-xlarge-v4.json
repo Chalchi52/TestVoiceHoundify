@@ -1,23 +1,23 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Mind\\Desktop\\wt_testing\\Houndify_testing\\HoundifyLibraryTest\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xlarge-v4\\values-xlarge-v4.xml",
+            "outputFile": "C:\\Users\\Mind\\Documents\\VSCProjects\\TestVoiceHoundify\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xlarge-v4\\values-xlarge-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Mind\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.1.aar\\4f916365fd733081c704efab0428138f\\res\\values-xlarge\\values-xlarge.xml",
+                    "source": "C:\\Users\\Mind\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.1.aar\\57842d10ab0018c15eb11fbc10a9e5db\\res\\values-xlarge\\values-xlarge.xml",
                     "from": {
-                        "startLines": "4,7,8,9,10,11,12,13,14",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "231,485,556,627,697,767,835,903,967",
-                        "endColumns": "76,70,70,69,69,67,67,63,54",
-                        "endOffsets": "303,551,622,692,762,830,898,962,1017"
+                        "startLines": "4,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "282,587,651,718,785,851,917",
+                        "endColumns": "76,63,66,66,65,65,54",
+                        "endOffsets": "354,646,713,780,846,912,967"
                     },
                     "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,132,203,274,344,414,482,550,614",
-                        "endColumns": "76,70,70,69,69,67,67,63,54",
-                        "endOffsets": "127,198,269,339,409,477,545,609,664"
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,132,196,263,330,396,462",
+                        "endColumns": "76,63,66,66,65,65,54",
+                        "endOffsets": "127,191,258,325,391,457,512"
                     }
                 }
             ]

@@ -1,25 +1,25 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Mind\\Desktop\\wt_testing\\Houndify_testing\\HoundifyLibraryTest\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
+            "outputFile": "C:\\Users\\Mind\\Documents\\VSCProjects\\TestVoiceHoundify\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Mind\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.1.aar\\4f916365fd733081c704efab0428138f\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\Mind\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.1.aar\\57842d10ab0018c15eb11fbc10a9e5db\\res\\values-v23\\values-v23.xml",
                     "from": {
-                        "startLines": "4,7,8,9,18,29",
+                        "startLines": "4,7,8,9,15,23",
                         "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "239,553,628,715,1273,2022",
-                        "endLines": "4,7,8,17,26,29",
+                        "startOffsets": "290,655,730,817,1145,1715",
+                        "endLines": "4,7,8,14,20,23",
                         "endColumns": "134,74,86,12,12,104",
-                        "endOffsets": "369,623,710,1268,1838,2122"
+                        "endOffsets": "420,725,812,1140,1480,1815"
                     },
                     "to": {
-                        "startLines": "2,3,4,5,14,23",
+                        "startLines": "2,3,4,5,11,17",
                         "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "55,190,265,352,910,1480",
-                        "endLines": "2,3,4,13,22,23",
+                        "startOffsets": "55,190,265,352,680,1020",
+                        "endLines": "2,3,4,10,16,17",
                         "endColumns": "134,74,86,12,12,104",
-                        "endOffsets": "185,260,347,905,1475,1580"
+                        "endOffsets": "185,260,347,675,1015,1120"
                     }
                 }
             ]
