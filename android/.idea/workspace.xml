@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="641c7c55-fe60-448d-8517-9cf8c0668494" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,28 +26,83 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="HoundifyModule.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="HoundifyModule.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/houndifylibrarytest/HoundifyModule.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="650">
-              <caret line="108" column="16" lean-forward="false" selection-start-line="108" selection-start-column="16" selection-end-line="108" selection-end-column="16" />
+            <state relative-caret-position="364">
+              <caret line="99" column="68" lean-forward="true" selection-start-line="99" selection-start-column="68" selection-end-line="99" selection-end-column="68" />
               <folding>
-                <element signature="e#2581#2582#0" expanded="true" />
-                <element signature="e#2623#2624#0" expanded="true" />
-                <element signature="e#2921#2986#0" expanded="true" />
-                <element signature="e#3015#3081#0" expanded="true" />
-                <element signature="e#5603#5668#0" expanded="true" />
-                <element signature="e#5697#5763#0" expanded="true" />
+                <element signature="e#2668#2669#0" expanded="true" />
+                <element signature="e#2710#2711#0" expanded="true" />
+                <element signature="e#3009#3075#0" expanded="true" />
+                <element signature="e#3104#3171#0" expanded="true" />
+                <element signature="e#6067#6133#0" expanded="true" />
+                <element signature="e#6162#6229#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SimpleAudioClon.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Calendar.java" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-23/java/util/Calendar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="972" column="40" lean-forward="false" selection-start-line="972" selection-start-column="40" selection-end-line="972" selection-end-column="40" />
+              <folding>
+                <element signature="e#35781#35782#0" expanded="true" />
+                <element signature="e#35827#35828#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BaseVoiceSearch.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/hound.android/hound-sdk/1.4.0/62350a4fe5cc69f725191a80436796322903a66a/hound-sdk-1.4.0-sources.jar!/com/hound/android/sdk/BaseVoiceSearch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="363">
+              <caret line="124" column="52" lean-forward="false" selection-start-line="123" selection-start-column="29" selection-end-line="124" selection-end-column="52" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/houndifylibrarytest/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HoundifyPackage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/houndifylibrarytest/HoundifyPackage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="strings.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="11" column="31" lean-forward="false" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SimpleAudioClon.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/houndifylibrarytest/SimpleAudioClon.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1175">
-              <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            <state relative-caret-position="1650">
+              <caret line="77" column="20" lean-forward="false" selection-start-line="77" selection-start-column="19" selection-end-line="77" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -3210,9 +3268,9 @@
         <option value="$PROJECT_DIR$/app/src/main/res/houndify.index.js" />
         <option value="$PROJECT_DIR$/settings.gradle" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/houndifylibrarytest/MainApplication.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/houndifylibrarytest/HoundifyModule.java" />
         <option value="$PROJECT_DIR$/app/build.gradle" />
         <option value="$PROJECT_DIR$/../node_modules/react-native-voice/android/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/houndifylibrarytest/HoundifyModule.java" />
       </list>
     </option>
   </component>
@@ -3501,7 +3559,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-2891" y="-11" width="2902" height="1582" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -3513,12 +3570,12 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4895458" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16441281" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38356164" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38356164" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -3557,12 +3614,12 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#2581#2582#0" expanded="true" />
-            <element signature="e#2623#2624#0" expanded="true" />
-            <element signature="e#2921#2986#0" expanded="true" />
-            <element signature="e#3015#3081#0" expanded="true" />
-            <element signature="e#5603#5668#0" expanded="true" />
-            <element signature="e#5697#5763#0" expanded="true" />
+            <element signature="e#2668#2669#0" expanded="true" />
+            <element signature="e#2710#2711#0" expanded="true" />
+            <element signature="e#3009#3075#0" expanded="true" />
+            <element signature="e#3104#3171#0" expanded="true" />
+            <element signature="e#6067#6133#0" expanded="true" />
+            <element signature="e#6162#6229#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -3598,12 +3655,12 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#2581#2582#0" expanded="true" />
-            <element signature="e#2623#2624#0" expanded="true" />
-            <element signature="e#2921#2986#0" expanded="true" />
-            <element signature="e#3015#3081#0" expanded="true" />
-            <element signature="e#5603#5668#0" expanded="true" />
-            <element signature="e#5697#5763#0" expanded="true" />
+            <element signature="e#2668#2669#0" expanded="true" />
+            <element signature="e#2710#2711#0" expanded="true" />
+            <element signature="e#3009#3075#0" expanded="true" />
+            <element signature="e#3104#3171#0" expanded="true" />
+            <element signature="e#6067#6133#0" expanded="true" />
+            <element signature="e#6162#6229#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -3629,12 +3686,12 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#2581#2582#0" expanded="true" />
-            <element signature="e#2623#2624#0" expanded="true" />
-            <element signature="e#2921#2986#0" expanded="true" />
-            <element signature="e#3015#3081#0" expanded="true" />
-            <element signature="e#5603#5668#0" expanded="true" />
-            <element signature="e#5697#5763#0" expanded="true" />
+            <element signature="e#2668#2669#0" expanded="true" />
+            <element signature="e#2710#2711#0" expanded="true" />
+            <element signature="e#3009#3075#0" expanded="true" />
+            <element signature="e#3104#3171#0" expanded="true" />
+            <element signature="e#6067#6133#0" expanded="true" />
+            <element signature="e#6162#6229#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -3652,12 +3709,12 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#2581#2582#0" expanded="true" />
-            <element signature="e#2623#2624#0" expanded="true" />
-            <element signature="e#2921#2986#0" expanded="true" />
-            <element signature="e#3015#3081#0" expanded="true" />
-            <element signature="e#5603#5668#0" expanded="true" />
-            <element signature="e#5697#5763#0" expanded="true" />
+            <element signature="e#2668#2669#0" expanded="true" />
+            <element signature="e#2710#2711#0" expanded="true" />
+            <element signature="e#3009#3075#0" expanded="true" />
+            <element signature="e#3104#3171#0" expanded="true" />
+            <element signature="e#6067#6133#0" expanded="true" />
+            <element signature="e#6162#6229#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -3667,12 +3724,12 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#2581#2582#0" expanded="true" />
-            <element signature="e#2623#2624#0" expanded="true" />
-            <element signature="e#2921#2986#0" expanded="true" />
-            <element signature="e#3015#3081#0" expanded="true" />
-            <element signature="e#5603#5668#0" expanded="true" />
-            <element signature="e#5697#5763#0" expanded="true" />
+            <element signature="e#2668#2669#0" expanded="true" />
+            <element signature="e#2710#2711#0" expanded="true" />
+            <element signature="e#3009#3075#0" expanded="true" />
+            <element signature="e#3104#3171#0" expanded="true" />
+            <element signature="e#6067#6133#0" expanded="true" />
+            <element signature="e#6162#6229#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -3710,12 +3767,12 @@
         <state relative-caret-position="119">
           <caret line="19" column="59" lean-forward="false" selection-start-line="19" selection-start-column="59" selection-end-line="19" selection-end-column="59" />
           <folding>
-            <element signature="e#2581#2582#0" expanded="true" />
-            <element signature="e#2623#2624#0" expanded="true" />
-            <element signature="e#2921#2986#0" expanded="true" />
-            <element signature="e#3015#3081#0" expanded="true" />
-            <element signature="e#5603#5668#0" expanded="true" />
-            <element signature="e#5697#5763#0" expanded="true" />
+            <element signature="e#2668#2669#0" expanded="true" />
+            <element signature="e#2710#2711#0" expanded="true" />
+            <element signature="e#3009#3075#0" expanded="true" />
+            <element signature="e#3104#3171#0" expanded="true" />
+            <element signature="e#6067#6133#0" expanded="true" />
+            <element signature="e#6162#6229#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -3747,34 +3804,12 @@
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/hound.android/hound-sdk/0.2.16/7f1dc3c409a99516e8b2b2dc64793911dd6c3d1a/hound-sdk-0.2.16-sources.jar!/com/hound/android/fd/Houndify.java" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/houndifylibrarytest/HoundifyPackage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="29" lean-forward="false" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/hound.android/hound-sdk/0.2.16/7f1dc3c409a99516e8b2b2dc64793911dd6c3d1a/hound-sdk-0.2.16-sources.jar!/com/hound/core/model/sdk/HoundRequestInfo.java" />
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/hound.android/hound-sdk/1.4.0/62350a4fe5cc69f725191a80436796322903a66a/hound-sdk-1.4.0-sources.jar!/com/hound/android/sdk/UnifiedSearchImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="38" column="6" lean-forward="false" selection-start-line="38" selection-start-column="6" selection-end-line="38" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/hound.android/hound-sdk/1.4.0/62350a4fe5cc69f725191a80436796322903a66a/hound-sdk-1.4.0-sources.jar!/com/hound/android/sdk/VoiceSearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="38" column="9" lean-forward="true" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -3799,13 +3834,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/houndifylibrarytest/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-23/java/io/InputStream.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1471">
@@ -3813,17 +3841,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/hound.android/hound-sdk/1.4.0/62350a4fe5cc69f725191a80436796322903a66a/hound-sdk-1.4.0-sources.jar!/com/hound/android/sdk/BaseVoiceSearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="131" column="0" lean-forward="true" selection-start-line="131" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/hound.android/hound-sdk/1.4.0/62350a4fe5cc69f725191a80436796322903a66a/hound-sdk-1.4.0-sources.jar!/com/hound/android/sdk/BaseSearch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1819">
           <caret line="60" column="21" lean-forward="true" selection-start-line="60" selection-start-column="21" selection-end-line="60" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -3861,6 +3883,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/hound.android/hound-sdk/1.4.0/62350a4fe5cc69f725191a80436796322903a66a/hound-sdk-1.4.0-sources.jar!/com/hound/android/sdk/VoiceSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="69" column="31" lean-forward="false" selection-start-line="69" selection-start-column="31" selection-end-line="69" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/hound.android/hound-sdk/1.4.0/62350a4fe5cc69f725191a80436796322903a66a/hound-sdk-1.4.0-sources.jar!/com/hound/android/sdk/UnifiedSearchImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="547">
+          <caret line="113" column="31" lean-forward="false" selection-start-line="113" selection-start-column="13" selection-end-line="113" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
@@ -3869,26 +3907,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/houndifylibrarytest/HoundifyModule.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/houndifylibrarytest/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="650">
-          <caret line="108" column="16" lean-forward="false" selection-start-line="108" selection-start-column="16" selection-end-line="108" selection-end-column="16" />
+        <state relative-caret-position="100">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/houndifylibrarytest/HoundifyPackage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
           <folding>
-            <element signature="e#2581#2582#0" expanded="true" />
-            <element signature="e#2623#2624#0" expanded="true" />
-            <element signature="e#2921#2986#0" expanded="true" />
-            <element signature="e#3015#3081#0" expanded="true" />
-            <element signature="e#5603#5668#0" expanded="true" />
-            <element signature="e#5697#5763#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/houndifylibrarytest/SimpleAudioClon.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1175">
-          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        <state relative-caret-position="1650">
+          <caret line="77" column="20" lean-forward="false" selection-start-line="77" selection-start-column="19" selection-end-line="77" selection-end-column="20" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/hound.android/hound-sdk/1.4.0/62350a4fe5cc69f725191a80436796322903a66a/hound-sdk-1.4.0-sources.jar!/com/hound/android/sdk/BaseVoiceSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="124" column="52" lean-forward="false" selection-start-line="123" selection-start-column="29" selection-end-line="124" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-23/java/util/Calendar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="972" column="40" lean-forward="false" selection-start-line="972" selection-start-column="40" selection-end-line="972" selection-end-column="40" />
+          <folding>
+            <element signature="e#35781#35782#0" expanded="true" />
+            <element signature="e#35827#35828#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/houndifylibrarytest/HoundifyModule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="99" column="68" lean-forward="true" selection-start-line="99" selection-start-column="68" selection-end-line="99" selection-end-column="68" />
+          <folding>
+            <element signature="e#2668#2669#0" expanded="true" />
+            <element signature="e#2710#2711#0" expanded="true" />
+            <element signature="e#3009#3075#0" expanded="true" />
+            <element signature="e#3104#3171#0" expanded="true" />
+            <element signature="e#6067#6133#0" expanded="true" />
+            <element signature="e#6162#6229#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

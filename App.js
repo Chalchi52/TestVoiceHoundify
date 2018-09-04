@@ -58,7 +58,7 @@ export default class App extends React.Component {
 
   onHoundifyTextResponse = (response) => {
     let writtenResponse = JSON.parse(response).AllResults[0].WrittenResponse;
-    console.log(`onHoundifyTextResponse/////////////////////////////${writtenResponse}`);
+    console.log(`onHoundifyTextResponse /////////////////////////////${writtenResponse}`);
 
     this.setState({
       result: writtenResponse,

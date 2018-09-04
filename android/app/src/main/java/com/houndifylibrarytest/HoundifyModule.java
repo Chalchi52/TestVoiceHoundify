@@ -30,7 +30,10 @@ import org.json.JSONObject;
 import java.io.File;
 import java.io.FileOutputStream;
 import java.io.InputStream;
+import java.text.SimpleDateFormat;
+import java.util.Calendar;
 import java.util.HashMap;
+import java.util.Locale;
 import java.util.Map;
 import java.util.UUID;
 
@@ -84,12 +87,16 @@ public class HoundifyModule extends ReactContextBaseJavaModule {
 
     @ReactMethod
     public void StartRecording() {
+
         if (voiceSearch != null) {
             return;
         }
-        String clientId = _context.getResources().getString(R.string.houndify_cliente_id_0);
-        String clientKey = _context.getResources().getString(R.string.houndify_cliente_key_0);
+        String clientId = _context.getResources().getString(R.string.houndify_cliente_id_12);
+        String clientKey = _context.getResources().getString(R.string.houndify_cliente_key_12);
         this._simpleAudio = new SimpleAudioClon();
+        Calendar calendar = Calendar.getInstance(Locale.getDefault());
+        SimpleDateFormat sdf = new SimpleDateFormat("yyyyMMdd_HHmmss");
+        String currentDateandTime = sdf.format(calendar.getTime());
         voiceSearch = new VoiceSearch.Builder().setRequestInfo(GetHoundRequestInfo())
                 //.setClientId("_-J90GYyvMo67EmDZtTdwA==")
                 //.setClientKey("8wg8ubcuB7LsVkQhOoDkjW-pVfXUELgZPHnrkZwg_AclvXUP-ukkz5pRCGYJYMVonQQgz0jSRGes1-2Ese3HMw==")
@@ -99,10 +106,10 @@ public class HoundifyModule extends ReactContextBaseJavaModule {
                 //.setAudioSource(new SimpleAudioByteStreamSource())
                 .setAudioSource(this._simpleAudio)
                 .setInputLanguageEnglishName("English")
+                .setSaveAudio(new File(Environment.getExternalStoragePublicDirectory(Environment.DIRECTORY_DOWNLOADS), "testAudio_" + currentDateandTime + ".wav"))
                 .build();
 
         voiceSearch.start();
-
         SendEventMessage("onStartRecording", null);
     }
 
@@ -112,7 +119,7 @@ public class HoundifyModule extends ReactContextBaseJavaModule {
             voiceSearch.stopRecording();
             voiceSearch = null;
             if (_simpleAudio != null) {
-                String path = "testAudio" + _simpleAudio.getByteCount() + ".aac";
+                String path = "testAudio" + _simpleAudio.getByteCount() + ".wav";
                 Log.d("StopRecording", "archivo: " + path);
                 Log.d("StopRecording", "getAudioData: " + _simpleAudio.getAudioData().length);
                 Log.d("StopRecording", "getByteCount: " + _simpleAudio.getByteCount());
@@ -143,8 +150,8 @@ public class HoundifyModule extends ReactContextBaseJavaModule {
         if (asyncTextSearch != null) {
             return;
         }
-        String clientId = _context.getResources().getString(R.string.houndify_cliente_id_0);
-        String clientKey = _context.getResources().getString(R.string.houndify_cliente_key_0);
+        String clientId = _context.getResources().getString(R.string.houndify_cliente_id_12);
+        String clientKey = _context.getResources().getString(R.string.houndify_cliente_key_12);
         AsyncTextSearch.Builder builder = new AsyncTextSearch.Builder()
                 .setRequestInfo(GetHoundRequestInfo())
                 //.setClientId("_-J90GYyvMo67EmDZtTdwA==")
@@ -243,7 +250,7 @@ public class HoundifyModule extends ReactContextBaseJavaModule {
         requestInfo.setUserId("Mac testing");
         requestInfo.setRequestId(UUID.randomUUID().toString());
 
-        requestInfo.setWakeUpPattern("[(\"hi\" | \"hey\" | \"hello\")] .\"Rosy\"");
+        //requestInfo.setWakeUpPattern("[(\"hi\" | \"hey\" | \"hello\")] .\"Rosy\"");
 
         return requestInfo;
     }
